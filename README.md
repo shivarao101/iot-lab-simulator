@@ -52,3 +52,4 @@ A complete IoT Lab Simulator for educational purposes. Simulate various IoT expe
 ### From PyPI (Recommended)
 ```bash
 pip install iot-lab-simulator
+python -m iot_lab_simulator
