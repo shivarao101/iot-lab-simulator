@@ -1,0 +1,5 @@
+[console_scripts]
+iot-lab-simulator = iot_lab_simulator.simulator:main
+
+[gui_scripts]
+iot-lab-simulator-gui = iot_lab_simulator.simulator:main

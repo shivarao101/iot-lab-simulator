@@ -1,5 +1,3 @@
-# iot-lab-simulator
-IoT Laboratory Simulator (Correlated to BEC657C VTU 2022 scheme)
 # IoT Lab Simulator
 
 [![PyPI version](https://badge.fury.io/py/iot-lab-simulator.svg)](https://badge.fury.io/py/iot-lab-simulator)

@@ -1,0 +1,12 @@
+include README.md
+include LICENSE
+include requirements.txt
+include setup.py
+include setup.cfg
+recursive-include iot_lab_simulator/resources *
+recursive-exclude tests *
+recursive-exclude docs *
+recursive-exclude examples *
+global-exclude __pycache__
+global-exclude *.pyc
+global-exclude *.pyo
